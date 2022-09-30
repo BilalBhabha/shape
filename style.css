@@ -1,0 +1,50 @@
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(240, 125, 234);
+    color: 
+    rgb(238, 238, 238);
+    background-image:url(https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg) ;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+    color: 
+    rgb(238, 238, 238);
+    background-image:url(https://images.ctfassets.net/hrltx12pl8hq/a2hkMAaruSQ8haQZ4rBL9/8ff4a6f289b9ca3f4e6474f29793a74a/nature-image-for-website.jpg?fit=fill&w=480&h=320);
+}
+.square{
+    margin-left: 50px;
+    width: 250px;
+    height: 200px;
+    background-color: rgb(240, 125, 234);
+    color: 
+    rgb(238, 238, 238);
+    background-image:url(https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg) ;
+}
+.rectangle{ 
+    width: 200px;
+    margin-left: 50px;
+    height: 200px;
+    border-radius: 150px;
+    color: 
+    rgb(238, 238, 238);
+    background-image:url(https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg) ;
+
+}
+.ion{
+    color: 
+    rgb(238, 238, 238);
+    width: 300px;
+    height: 300px;
+    background-image:url(https://images.ctfassets.net/hrltx12pl8hq/a2hkMAaruSQ8haQZ4rBL9/8ff4a6f289b9ca3f4e6474f29793a74a/nature-image-for-website.jpg?fit=fill&w=480&h=320);
+}
+.black{
+    color: 
+    rgb(238, 238, 238);
+    width: 450px;
+    height: 250px;
+    background-image:url(https://images.ctfassets.net/hrltx12pl8hq/a2hkMAaruSQ8haQZ4rBL9/8ff4a6f289b9ca3f4e6474f29793a74a/nature-image-for-website.jpg?fit=fill&w=480&h=320);
+
+}
